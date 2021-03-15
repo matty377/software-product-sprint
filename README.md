@@ -1,6 +1,6 @@
 # Google Software Product Sprint
 
-This repo contains Matt's portfolio.
+This repo contains Matt's portfolio and some more important changes.
 
 To get started:
 
